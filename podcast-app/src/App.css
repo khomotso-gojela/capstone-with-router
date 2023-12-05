@@ -1,0 +1,11 @@
+.e-container {
+    display: grid;
+    grid-template-columns: 10% auto 10%;
+    justify-items: left;
+  }  
+  
+  .star {
+    background-color: white;
+    border: 0;
+    width: 100%;
+  }
